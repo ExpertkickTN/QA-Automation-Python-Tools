@@ -26,43 +26,9 @@ To get started with the **QA Automation Python Tools** Docker image, simply pull
 
 ```bash
 docker pull expertkicktn/qa-automation-python-tools
-
-
-
-Here is the full markdown code without any explanation or separation:
-
-markdown
-Copier le code
-# 🚀 Kickstart Your QA Automation Journey with This All-in-One Docker Image! 🚀
-
-If you’re a beginner in QA automation and want to learn or improve your testing skills, I’ve just created the perfect environment for you! 🎯
-
-## 🔹 What’s inside:
-- **UI Automation:** Selenium, Appium
-- **BDD Testing:** Robot Framework, Pytest
-- **API Testing:** Postman, Httpie
-- **Unit Testing:** Pytest, Green, Rose2
-- **Code Quality:** Flake8, Pylint
-- **Infrastructure Testing:** Ansible, Testinfra
-
-And Much More... All seamlessly packaged in an easy-to-use Docker container! 🧑‍💻
-
-This Docker image is designed to make it easier for you to practice and experiment with test automation, without worrying about setting up multiple tools. Whether you’re testing APIs, web apps, or working on your first unit test, this setup is your one-stop solution! 🎉
-
-## 📦 Features:
-- Menu-driven interface for seamless test execution
-- Ready-to-go environment for UI, API, BDD testing, and more!
-- Full environment setup, just pull and start!
-
-## 📥 Docker Pull Command
-
-To get started with the **QA Automation Python Tools** Docker image, simply pull it using the following command:
-
-```bash
-docker pull expertkicktn/qa-automation-python-tools
+```
 
 Once the image is pulled, you can start using it for your testing automation setup!
-
 
 
 ## Selenium & Robot Framework Trick for Performance Boost 🚀
@@ -94,7 +60,7 @@ Example Test
     Open Browser  https://example.com  chrome
     # Your test steps here
     Close Browser
-
+```
 ### Why Use This Setup?
 
 - **Disables notifications, infobars, and extensions:** Avoids pop-ups and clutter.
